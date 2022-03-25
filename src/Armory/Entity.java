@@ -1,4 +1,4 @@
 package Armory;
 
-class Entity {
+abstract class Entity {
 }
